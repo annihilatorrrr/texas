@@ -1,5 +1,8 @@
 # Texas
  
+ 
+ IMPORTED FROM GITLAB - https://gitlab.com/Dank-del/texas 
+ 
 >  Texas is a modern and fast Telegram Bot developed entirely to improve the chat experience,
 >  Texas contains commands related to Anime, Android, group administration, and more!
 
